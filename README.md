@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngdechev&label=Profile%20views&color=0e75b6&style=flat" alt="ngdechev" /> </p>
 
-- 🔭 I'm currently working on **Real Estate CMS**
+- 🔭 I'm currently working on **[Taxi Management Application](https://github.com/ngdechev/taxi-management-application)**
 
-- 🌱 I'm currently learning **Linux**
+- 🌱 I'm currently learning **Linux, BASH Scripting**
 
 - 👨‍💻 All of my projects are available at [https://primodesign.net](https://primodesign.net)
 
