@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **[Taxi Management Application](https://github.com/ngdechev/taxi-management-application)**
 
-- 🌱 I'm currently learning **Linux, BASH Scripting**
+- 🌱 I'm currently learning **Linux, BASH Scripting and Python**
 
 - 👨‍💻 All of my projects are available at [https://primodesign.net](https://primodesign.net)
 
