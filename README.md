@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **[BuhTorrent](https://github.com/ngdechev/buh-torrent)**
 
-- 🌱 I'm currently learning **Linux & Network Programming**
+- 🌱 I'm currently learning **Kali Linux & Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://primodesign.net](https://primodesign.net)
 
